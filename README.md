@@ -15,8 +15,7 @@ This project is a beautifully designed UI/UX concept for a travel companion plat
 - Intuitive call-to-action buttons for seamless engagement
 
 ## 🖼️ Preview
-![Travel UI Preview](./path-to-your-image.jpg)  
-*(Replace with the actual image path)*
+https://github.com/VigneshPrabhakaranMR/Explore-Travel-Web-Design/blob/main/1.jpg
 
 ## 🎨 About Me
 I’m a passionate UI/UX Designer who thrives on crafting seamless and engaging digital experiences. My expertise lies in blending aesthetics, functionality, and user psychology to create interfaces that delight and inspire.
