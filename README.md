@@ -15,8 +15,8 @@ This project is a beautifully designed UI/UX concept for a travel companion plat
 - 🎯 Intuitive call-to-action buttons for seamless engagement
 
 ## 🖼️ Preview
-![Travel UI Preview](./mnt/data/6.jpg)  
-*(Replace with the actual image path)*
+![Travel UI Preview](https://raw.githubusercontent.com/your-username/your-repo/main/path-to-image.jpg)
+
 
 ## 🎨 About Me
 I’m a passionate UI/UX Designer who thrives on crafting seamless and engaging digital experiences. My expertise lies in blending aesthetics, functionality, and user psychology to create interfaces that delight and inspire.
