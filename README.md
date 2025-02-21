@@ -23,6 +23,3 @@ Nature Stride is an immersive and visually engaging UI/UX design for a hiking we
 3. Join the community to share your hiking experiences.
 4. Plan your adventure with interactive maps and itineraries.
 
-## Contact
-For more design inspirations and collaborations, visit [Nature Stride Instagram](https://www.instagram.com/nature_stride/).
-
