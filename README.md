@@ -1,43 +1,28 @@
-# Travel UI/UX Design Project
+# Nature Stride - Hiking Website
 
-## 🌍 Exploring the World with Exciting People
+![Nature Stride Website Preview](6.jpg)
 
-This project is a beautifully designed UI/UX concept for a travel companion platform. It connects travelers with similar interests, allowing them to explore destinations together seamlessly. The design focuses on usability, aesthetics, and a smooth user experience.
+## Description
+Nature Stride is an immersive and visually engaging UI/UX design for a hiking website, created using Figma and Canva. It provides outdoor enthusiasts with a seamless experience for discovering trails, planning adventures, and accessing essential hiking resources.
 
-## 🖌️ Design Tools Used
-- **Figma** – 🎨 For wireframing and prototyping
-- **Canva** – 🖼️ For designing visual elements
+## Features
+- 🌿 Stunning and nature-inspired UI design
+- 🏔️ Curated hiking destinations and trails
+- 🗺️ Interactive maps and guides
+- 🎒 Expert gear recommendations
+- 🏕️ Community-driven adventure sharing
+- 📱 Responsive and user-friendly interface
 
-## ✨ Features
-- 🌟 Stunning homepage with engaging visuals
-- 🌍 Travel destination discovery section
-- 🧭 User-friendly navigation and interaction flow
-- 🎯 Intuitive call-to-action buttons for seamless engagement
+## Technologies Used
+- 🎨 **Figma** - UI/UX design and prototyping
+- 🖌 **Canva** - Graphics and visual elements
 
-## 🖼️ Preview
-![Travel UI Preview](https://raw.githubusercontent.com/your-username/your-repo/main/path-to-image.jpg)
+## How to Use
+1. Explore curated hiking destinations and trails.
+2. Access expert recommendations for gear and safety tips.
+3. Join the community to share your hiking experiences.
+4. Plan your adventure with interactive maps and itineraries.
 
-
-## 🎨 About Me
-I’m a passionate UI/UX Designer who thrives on crafting seamless and engaging digital experiences. My expertise lies in blending aesthetics, functionality, and user psychology to create interfaces that delight and inspire.
-
-### 🔥 My Focus Areas
-✅ User-Centered Design – Crafting intuitive and accessible interfaces  
-✅ Wireframing & Prototyping – Bringing ideas to life using Figma  
-✅ Design Systems – Ensuring consistency across platforms  
-✅ Usability Research – Enhancing experiences through real user insights  
-
-### 🚀 What I'm Doing
-🌟 Designing pixel-perfect UI for web & mobile apps  
-🔍 Researching & improving user experiences  
-📌 Exploring cutting-edge trends in UI/UX & interaction design  
-📚 Sharing my journey & insights with the design community  
-
-### 🔗 Connect With Me
-📌 Portfolio: [vigneshprabhakaran.onrender.com](https://vigneshprabhakaran.onrender.com/)  
-📌 LinkedIn: [linkedin.com/in/vigneshprabhakaran](https://www.linkedin.com/in/vigneshprabhakaran/)  
-
----
-
-Let me know if you need any changes or additions!
+## Contact
+For more design inspirations and collaborations, visit [Nature Stride Instagram](https://www.instagram.com/nature_stride/).
 
