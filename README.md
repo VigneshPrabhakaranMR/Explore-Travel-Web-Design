@@ -5,17 +5,18 @@
 This project is a beautifully designed UI/UX concept for a travel companion platform. It connects travelers with similar interests, allowing them to explore destinations together seamlessly. The design focuses on usability, aesthetics, and a smooth user experience.
 
 ## 🖌️ Design Tools Used
-- **Figma** – For wireframing and prototyping
-- **Canva** – For designing visual elements
+- **Figma** – 🎨 For wireframing and prototyping
+- **Canva** – 🖼️ For designing visual elements
 
 ## ✨ Features
-- Stunning homepage with engaging visuals
-- Travel destination discovery section
-- User-friendly navigation and interaction flow
-- Intuitive call-to-action buttons for seamless engagement
+- 🌟 Stunning homepage with engaging visuals
+- 🌍 Travel destination discovery section
+- 🧭 User-friendly navigation and interaction flow
+- 🎯 Intuitive call-to-action buttons for seamless engagement
 
 ## 🖼️ Preview
-https://github.com/VigneshPrabhakaranMR/Explore-Travel-Web-Design/blob/main/1.jpg
+![Travel UI Preview](./mnt/data/6.jpg)  
+*(Replace with the actual image path)*
 
 ## 🎨 About Me
 I’m a passionate UI/UX Designer who thrives on crafting seamless and engaging digital experiences. My expertise lies in blending aesthetics, functionality, and user psychology to create interfaces that delight and inspire.
